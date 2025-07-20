@@ -123,7 +123,7 @@ That's what we aim to build at **VilaVision**.
 ## 📩 Contact
 
 📫 For project proposals, research partnerships, or joining the team, contact us at:
-**📧 [vilavision.ai@gmail.com](mailto:vilavision.ai@gmail.com)** *(replace with your org email if available)*
+**📧 [vilavision.ai@gmail.com](mailto:vilavision.ai@gmail.com)** 
 
 ---
 

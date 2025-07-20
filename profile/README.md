@@ -1,7 +1,7 @@
 <!-- VILAVISION README.md -->
 
 <p align="center">
-  <img src="assets/VILAVISION.png" alt="VilaVision Logo" width="180" />
+  <img src=".github/assets/VILAVISION.png" alt="VilaVision Logo" width="180" />
 </p>
 
 <h1 align="center">🧠 VilaVision – Advancing AI for a Better Future</h1>
